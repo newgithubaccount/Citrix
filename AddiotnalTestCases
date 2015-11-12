@@ -1,0 +1,10 @@
+1)Testcase to get all scheduled webinars
+2)test for scheduling webinar
+3)Test for cheking the recordings
+4)Test for validating webinar history
+5)Test for genrating reports
+6)test for settings
+7)Test for modifying account details
+8)Test for logout of the application
+
+All the above test cases were a high level test cases.we can write multiple @test methods inside each high level test case
