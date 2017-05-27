@@ -36,6 +36,7 @@ public class MyWebinarSelection {
 	{
 		wrapper.implicitWait();
 		wrapper.click(scheduleWebinar, "clicked on schedule a webinar");
+		System.out.println("")
 		return new ScheduleMeeting(wrapper);
 	}
 	public void clickSchudledwebinars()
